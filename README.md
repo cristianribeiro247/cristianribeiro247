@@ -1,8 +1,11 @@
 ## Boas vindas ao meu perfil 🥔
- Meu nome é Cristian Ribeiro
- • Estou estudando no Galliera
- • Estou me desenvolvendo na linguagem Javascript
- • Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
+Meu nome é **Cristian Ribeiro**
+
+**•** Estou estudando no Galliera
+
+ **•** Estou me desenvolvendo na linguagem Javascript
+
+**•** Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
 
 ## Você pode entrar em contato comigo 📫
 
